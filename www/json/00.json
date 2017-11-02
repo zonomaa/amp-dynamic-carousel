@@ -1,0 +1,24 @@
+{
+ "items": [{
+  "values": [
+     {
+         "title": "全国のデータ A",
+         "comment": "テストデータAテストデータAテストデータAテストデータA",
+         "img": "http://via.placeholder.com/210x150",
+         "url": "#"
+        },
+        {
+        "title": "全国のデータ B",
+       "comment": "テストデータBテストデータBテストデータBテストデータB",
+       "img": "http://via.placeholder.com/210x150",
+       "url": "#"
+     },
+     {
+       "title": "全国のデータ C",
+       "comment": "テストデータCテストデータCテストデータCテストデータC",
+       "img": "http://via.placeholder.com/210x150",
+       "url": "#"
+     }
+  ]
+ }]
+}
